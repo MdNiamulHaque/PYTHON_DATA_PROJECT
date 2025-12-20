@@ -26,7 +26,6 @@ plt.show()
 ![Visualization of Top Skills for Data Nerds](./3_Project/Images/paid.png)
 
 
-### Insights
 
 ### Insights
 💡
@@ -77,6 +76,13 @@ plt.show()
 
 
 ## 3. How well do jobs and skills pay for Data 
+Premium Specialization: Cloud technologies like Snowflake command the highest salaries, with a median of $110K, despite lower job volume.
+
+The High-Pay Tier: Tools such as Looker, AWS, and Azure consistently pay above $100K, highlighting the financial value of technical specialization.
+
+Mainstream Mastery: Essential programming languages like Python offer a strong median salary of approximately $98K, outperforming traditional tools like Excel which sits at $84K.
+
+Market Balance: SQL provides a solid middle-ground with a median salary of $91K, making it the most reliable skill for both high demand and stable pay.
 ### Salary Analysis for Data Nerds 
 ### Visualize Data
 ```python
@@ -94,7 +100,7 @@ plt.show()
 ```
 
 #### Results
-![Salary Boxplot](./3_Project/images/salary_boxplot.png)
+![Salary Boxplot](./3_Project\Images\4_Aalary_Boxplot.png)
 
 Insights
 💰
@@ -111,7 +117,21 @@ Skill Correlation: Roles requiring advanced technical skills like Python and SQL
 
 
 # 3. How well do jobs and skills pay for Data 
+Here is a concise summary of the relationship between pay, jobs, and skills for Data Analysts based on your analysis:
+
+3. How well do jobs and skills pay for Data Analysts?
+Top-Tier Salaries (Specialized Skills): Cloud and big data technologies like Snowflake and Looker offer the highest median salaries, reaching up to $110K and $103K respectively.
+
+The Programming Advantage: Professionals proficient in Python earn a significantly higher median salary (approx. $98K) compared to those relying on traditional analyst tools like Excel (approx. $84K).
+
+High-Value Cloud Integration: Skills such as AWS, Azure, and Oracle are positioned in the high-salary, lower-demand quadrant, indicating that specialization in cloud platforms leads to premium pay.
+
+The "Golden" Middle Ground: SQL provides a strong median salary of $91K while maintaining the highest market demand, making it the most reliable skill for consistent earnings.
+
+Visualization Tools: Data visualization experts using Tableau see a median salary of around $93K, which is higher than Power BI at approximately $90K.
+
 ### Higest Paid & Most Demand Skills for Data 
+
 ### Visualize Data
 
 ```python
@@ -129,7 +149,7 @@ plt.show()
 ```
 
 #### Result
-![Highest Paid Skills](./3_Project/images/paid.png)
+![Highest Paid Skills](.3_Project\Images\4_Salary_Analysis.png)
 
 
 Final Skill Insights
@@ -147,6 +167,13 @@ Optimal Career Path: For the highest financial growth, Data Analysts should mast
 
 
 ## 4. What is the most optimal skill to learn for Data Analysis
+SQL (The Foundation): This is the most essential skill as it has the highest market demand, appearing in nearly 60% of job postings with a strong median salary of $91K.
+
+Python (The Salary Booster): Python offers a significantly higher median salary (approx. $98K) than traditional tools like Excel, while still maintaining high demand (over 30%).
+
+Tableau (The Visual Standard): For data visualization, Tableau is the optimal choice as it commands a higher salary (approx. $93K) than Power BI (approx. $90K) with similar market demand.
+
+Specialized Cloud Skills: While tools like Snowflake pay the most ($110K), they are considered "niche" because they appear in fewer than 10% of job ads.
 
 ### Visulalize
 
@@ -167,7 +194,7 @@ plt.show()
 
 #### Result
 ### Optimal Skills for Data Analysts
-![Optimal Skills](./3_Project/Images/Skills_Optimal.png)
+![Optimal Skills](./3_Project\Images\5_Skills_Optimal.pngg)
 
 📊 Data Analyst Portfolio Insights: Demand vs. Salary
 Based on the finalized scatter plot analysis of the US job market, several key trends emerge regarding the most "optimal" skills for Data Analysts:

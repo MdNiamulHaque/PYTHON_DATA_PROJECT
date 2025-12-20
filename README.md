@@ -7,7 +7,8 @@
 To find the most demanded skills for the 3 most popular data roles. I filtered out those positions by which ones were the most popular , and got the top 5 skills for these top 3 roles. This query highlights the most popular job title and their top skills , showing which skills I should pay attention to depending on this role I'm targeting.
 
 View the skill count analysis here: 
-[2_Skills_Count.ipynb](./3_Project/2_Skills_Count.ipynb)
+### Analysis of Paid vs. Free Skills
+![Paid Skills Analysis](./3_Project/Images/paid.png)
 
 ### Visualize Data
 

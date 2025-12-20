@@ -35,6 +35,15 @@ plt.show()
 - Data Engineers require more specialized technical skills (AWS, Azure, Spark) compared to Data Analysts and Data Scientists who are expected to be proficient in more general data management and analysis tools (Excel, Tableau).
 
 ## 2. How are in-demand treanding for Data Analysts?
+SQL & Excel Dominance: These remain the foundational tools for the majority of Data Analyst roles, with SQL appearing in nearly 60% of job postings.
+
+Rise of Python: There is a significant upward trend for Python as companies shift towards automated data processing and advanced analytics.
+
+Cloud Adoption: Skills like Snowflake and AWS are trending as niche but high-paying requirements, indicating a market shift toward cloud-based data warehousing.
+
+View the skill count analysis here: 
+
+[3_Skills_Trend.ipynb](./3_Project\3_Skills_Trend.ipynb)
 
 ## Visualize Data
 
@@ -55,7 +64,7 @@ plt.show()
 ```
 ### Results
 
-![Trending Top Skills for Data Analysts in the US](./3_Project/images/skill_trend_DA.png)
+![Trending Top Skills for Data Analysts in the US](./3_Project\Images\3_skill_Trend.png)
 
 ### Insights
 
